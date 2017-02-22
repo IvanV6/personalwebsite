@@ -47,16 +47,6 @@
 					"width": 20,
 					"height": 17
 				}
-			},
-			{
-				"type": "twitter",
-				"name": "Twitter",
-				"url": "https://twitter.com/auino",
-				"image": {
-					"url": "/static/configuration/img/social/twitter.png",
-					"width": 20,
-					"height": 17
-				}
 			}
 		]
 	},
