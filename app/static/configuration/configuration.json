@@ -1,7 +1,7 @@
 {
-	"name": "Enrico",
-	"surname": "Cambiaso",
-	"role": "Computer Scientist",
+	"name": "Ivan",
+	"surname": "Vaccari",
+	"role": "Computer Engineering",
 	"avatar": "/static/configuration/img/avatar.jpg",
 	"colors": {
 		"background": "#f6f9f9",
@@ -13,7 +13,7 @@
 		"hide": true,
 		"duration": 30,
 		"text": "Fork this project on GitHub",
-		"url": "https://github.com/auino/personalwebsite"
+		"url": "https://github.com/IvanV6/personalwebsite"
 	},
 	"stats": {
 		"enabled": true,
@@ -31,7 +31,7 @@
 			{
 				"type": "github",
 				"name": "GitHub",
-				"url": "https://github.com/auino",
+				"url": "https://github.com/IvanV6",
 				"image": {
 					"url": "/static/configuration/img/social/github.png",
 					"width": 18,
@@ -41,7 +41,7 @@
 			{
 				"type": "linkedin",
 				"name": "LinkedIn",
-				"url": "https://linkedin.com/in/enricocambiaso",
+				"url": "https://www.linkedin.com/in/ivan-vaccari-48790a139/",
 				"image": {
 					"url": "/static/configuration/img/social/linkedin.png",
 					"width": 20,
@@ -55,46 +55,6 @@
 				"image": {
 					"url": "/static/configuration/img/social/twitter.png",
 					"width": 20,
-					"height": 17
-				}
-			},
-			{
-				"type": "blogger",
-				"name": "Blogger",
-				"url": "http://enricocambiaso.blogspot.com",
-				"image": {
-					"url": "/static/configuration/img/social/blogger.png",
-					"width": 17,
-					"height": 17
-				}
-			},
-			{
-				"type": "photoservice",
-				"name": "500px",
-				"url": "http://500px.com/auino",
-				"image": {
-					"url": "/static/configuration/img/social/500px.png",
-					"width": 24,
-					"height": 20
-				}
-			},
-			{
-				"type": "googleplus",
-				"name": "Google Plus",
-				"url": "http://plus.google.com/+EnricoCambiaso",
-				"image": {
-					"url": "/static/configuration/img/social/googleplus.png",
-					"width": 20,
-					"height": 19
-				}
-			},
-			{
-				"type": "facebook",
-				"name": "Facebook",
-				"url": "https://www.facebook.com/enrico.cambiaso",
-				"image": {
-					"url": "/static/configuration/img/social/facebook.png",
-					"width": 10,
 					"height": 17
 				}
 			}
@@ -112,10 +72,10 @@
 	},
 	"email": {
 		"address": {
-			"name": "enrico.cambiaso",
+			"name": "ivan.vaccari91",
 			"domain": "gmail.com"
 		},
-		"tag": "Auino website",
-		"question": "Want to send me nerdish things?"
+		"tag": "Ivan Vaccari website",
+		"question": "To contact, send me an email"
 	}
 }
